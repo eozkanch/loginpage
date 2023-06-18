@@ -1,7 +1,6 @@
 # loginpage
 
-<img src="/login-app/public/images/login.jpeg" width={400}>
-
+<img src="https://github.com/eozkanch/reactdersler/blob/main/public/images/login.jpeg" width={400}>
 
 <h1 className="text-center">login-app: A Modern Login Application with Next.js</h1>
 
